@@ -7,5 +7,5 @@ My web portfolio https://andlat.github.io
 * Android development
 
 # Projects
-See my GitHub repositories: https://github.com/andlat<br/>
+See my GitHub repositories: https://github.com/Andlat<br/>
 See my hackathon projects at Devpost: https://devpost.com/Andlat
